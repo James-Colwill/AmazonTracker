@@ -60,7 +60,7 @@
             this.txtSendAddress.Name = "txtSendAddress";
             this.txtSendAddress.Size = new System.Drawing.Size(300, 26);
             this.txtSendAddress.TabIndex = 2;
-            this.txtSendAddress.Text = "4404799057@vtext.com";
+            this.txtSendAddress.Text = "";
             this.txtSendAddress.TextChanged += new System.EventHandler(this.txtSendAddress_TextChanged);
             // 
             // timer1
