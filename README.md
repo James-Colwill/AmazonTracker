@@ -1,2 +1,2 @@
 # AmazonTracker
-Provides alerts when an amazon product price changes.
+Provides alerts for amazon price changes
